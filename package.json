@@ -1,7 +1,7 @@
 {
-  "name": "netlify-functions-example",
+  "name": "docusign-webhook-netlify-lambda",
   "version": "0.1.0",
-  "description": "Irene’s playground for learning how to use Netlify Lambda Functions",
+  "description": "Handler for Docusign's Incoming Webhooks using Netlify Lambda Functions",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,8 +12,7 @@
     "build:client": "webpack --mode production --config webpack.client.js",
     "build:server": "netlify-lambda build src/lambda"
   },
-  "author": "imorente",
-  "license": "MIT",
+  "author": "shankariyerr",
   "devDependencies": {
     "babel-loader": "^7.1.4",
     "concurrently": "^3.5.1",
