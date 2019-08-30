@@ -30,7 +30,7 @@ yarn
 yarn start
 ```
 
-This will start the client server on http://localhost:8080, and the netlify-lambda server on http://localhost:9000.
+This will start the netlify-lambda server on http://localhost:8080/.netlify/functions/docusign_webhook.
 
 [netlify-lambda](https://github.com/netlify/netlify-lambda) isn’t required to deploy Lambda functions to Netlify, but it offers some handy features out of the box that make it quicker to get started, like the local dev server and nice defaults for transpiling and bundling functions in production.
 
