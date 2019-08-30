@@ -38,7 +38,7 @@ The client server is configured to proxy `/.netlify` requests to the Lambda serv
 
 ## Tutorials 📚
 
-- [Netlify Functions (Build and Deploy)](https://www.youtube.com/watch?v=_1qXQM3Mt4Q) video
-- [DocuSign Developer: Webhooks with API Demo](https://www.youtube.com/watch?v=wTDorhnAjbM) video
-- [Adding Connect Webhooks to your Application](https://www.docusign.com/blog/dsdev-adding-webhooks-application/) blog
-- [How to use Netlify Lambda Functions and add dynamic processing to JAMstack sites](https://flaviocopes.com/netlify-functions/) blog
+- [Netlify Functions (Build and Deploy)](https://www.youtube.com/watch?v=_1qXQM3Mt4Q)
+- [DocuSign Developer: Webhooks with API Demo](https://www.youtube.com/watch?v=wTDorhnAjbM)
+- [Adding Connect Webhooks to your Application](https://www.docusign.com/blog/dsdev-adding-webhooks-application/)
+- [How to use Netlify Lambda Functions and add dynamic processing to JAMstack sites](https://flaviocopes.com/netlify-functions/)
